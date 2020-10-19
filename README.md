@@ -20,11 +20,11 @@ The main goal is to build a basic chatbot which can perform basic operations by 
 
 
 ## Coding
-- We have created this chatbot by coding six modules in which each module is performed a specific task and all these modules are integrated in [this](https://github.com/Siva-555/ML2021-CHAT-BOT/blob/main/main.py) file. In which we have imported all the necessary modules required for our chatbot
-- In [this](https://github.com/Siva-555/ML2021-CHAT-BOT/blob/main/omdb.py) file we have implemented the function to give the details of the movie entered by the user.
-- In these files [game1](https://github.com/Siva-555/ML2021-CHAT-BOT/blob/main/handcricket.py) ,
-  [game2](https://github.com/Siva-555/ML2021-CHAT-BOT/blob/main/rockpaperscissor.py) we have implemented chatbot to play games the user.
-- [this](https://github.com/Siva-555/ML2021-CHAT-BOT/blob/main/greetings.py) file greets the user according to the time.
+- We have created this chatbot by coding six modules in which each module is performed a specific task and all these modules are integrated in [MAIN](https://github.com/Siva-555/ML2021-CHAT-BOT/blob/main/main.py) file. In which we have imported all the necessary modules required for our chatbot
+- In [THIS](https://github.com/Siva-555/ML2021-CHAT-BOT/blob/main/omdb.py) file we have implemented the function to give the details of the movie entered by the user.
+- In these files [HAND CRICKET](https://github.com/Siva-555/ML2021-CHAT-BOT/blob/main/handcricket.py) ,
+  [ROCK PAPER SCISSOR](https://github.com/Siva-555/ML2021-CHAT-BOT/blob/main/rockpaperscissor.py) we have implemented chatbot to play games the user.
+- [this Greeting](https://github.com/Siva-555/ML2021-CHAT-BOT/blob/main/greetings.py) file greets the user according to the time.
 
 ## References and Tools
 - As this is a basic chatbot we did not refered any where for coding.
