@@ -14,6 +14,10 @@ The main goal is to build a basic chatbot which can perform basic operations by 
 - It can also ***play some games*** with the user.The games which it can play with the user are:
     1.Hand Cricket
     2.Stone Paper Scissor
+    
+## Block Diagram
+![](https://github.com/Siva-555/ML2021-CHAT-BOT/blob/main/blockd.png)
+
 
 ## Coding
 - We have created this chatbot by coding six modules in which each module is performed a specific task and all these modules are integrated in [this](https://github.com/Siva-555/ML2021-CHAT-BOT/blob/main/main.py) file. In which we have imported all the necessary modules required for our chatbot
@@ -21,8 +25,6 @@ The main goal is to build a basic chatbot which can perform basic operations by 
 - In these files [game1](https://github.com/Siva-555/ML2021-CHAT-BOT/blob/main/handcricket.py) ,
   [game2](https://github.com/Siva-555/ML2021-CHAT-BOT/blob/main/rockpaperscissor.py) we have implemented chatbot to play games the user.
 - [this](https://github.com/Siva-555/ML2021-CHAT-BOT/blob/main/greetings.py) file greets the user according to the time.
-- [this](https://github.com/Siva-555/ML2021-CHAT-BOT/blob/main/evalexp.py) file evaluates an expression.
-    
 
 ## References and Tools
 - As this is a basic chatbot we did not refered any where for coding.
